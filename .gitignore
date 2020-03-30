@@ -1,5 +1,6 @@
 *.swp
 *.tmp
 *.env
+*.log
 node_modules
 client/node_modules
